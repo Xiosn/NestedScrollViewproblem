@@ -1,10 +1,5 @@
 # NestedScrollViewproblem
 
-前言
-在开发中我们经常会用到 NestedScrollView 和 RecycleView，一般情况下这两种布局是不需要进行嵌套的，很多情况下 RecycleView 就可以自行解决，但是毕竟是一般情况，因此超出一般情况外的，我们可能就需要进行嵌套了，虽然 Google 大大也不鼓励我们这样使用。
-这样使用可能会带来一些问题，一如当年的 ScrollView 和 ListView 的矛盾一样。这里就出现的一些情况进行总结和解决。
-开发中碰到的类似的问题，都会放在这里，持续更新中……
-
 
 出现的问题
 
